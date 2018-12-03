@@ -49,4 +49,3 @@ permalink: /people/
 <li>Hartmut Kaiser)</li>
 <li>Ashley Zebrowski</li>
 <li>Aikaterina Stamou</li>
-</dl>
