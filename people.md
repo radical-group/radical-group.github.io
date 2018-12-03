@@ -29,7 +29,7 @@ permalink: /people/
 <hr>
 
 <h3>Alumni</h3>
-<dl style="font-size:0.7rem;">
+<ul style="font-size:0.7rem;">
 <li>Ming Tai Ha</li>
 <li>Ole Weidner</li>
 <li>Franklin Bettencourt</li>
@@ -49,3 +49,4 @@ permalink: /people/
 <li>Hartmut Kaiser)</li>
 <li>Ashley Zebrowski</li>
 <li>Aikaterina Stamou</li>
+</ul>
