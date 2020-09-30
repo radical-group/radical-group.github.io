@@ -1,5 +1,5 @@
 # RADICAL Website
-
+A great wepage.
 [![Build Status](https://travis-ci.org/radical-group/radical-group.github.io.svg?branch=master)](https://travis-ci.org/radical-group/radical-group.github.io)
 
 This is the repository for our [RADICAL website](http://radical.rutgers.edu/). We 
@@ -215,3 +215,4 @@ When adding yourself to the website, create a branch named
 `people/<first-lastname>` and add your photo to `images/people`. Create a pull
 request towards master of this repo. As soon as the request is merged, GitHub
 will render the page on the official website.
+Thank you.
