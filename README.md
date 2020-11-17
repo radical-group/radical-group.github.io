@@ -64,7 +64,8 @@ contains both mandatory and optional variables:
 | date       | year-month-day           | mandatory | Date of publication      |
 | author     | firt last,               | mandatory | Comma-separated list of authors |
 | venue      | string                   | mandatory | Proceedings, journal or archive of the publication |
-| paperurl   | URL                      | mandatory | Official URL of the publication |    
+| paperurl   | URL                      | mandatory | Official URL of the publication |   
+| arxiv      | URL                      | mandatory | Arxiv URL of the publication |    
 | abstract   | string                   | optional  | Abstract of the publication. When added, a landing page for the publication is created with title, authors, abstract and links to the full paper |
 
 The name of the file in `_publications` must follow the format: Last name of
@@ -87,6 +88,7 @@ type: pub
 author: "Ioannis Paraskevakos, Andre Luckow, Mahzad Khoshlessan, George Chantzialexiou, Thomas E. Cheatham, Oliver Beckstein, Geoffrey C. Fox and Shantenu Jha"
 venue: "47th International Conference on Parallel Processing (ICPP 2018)"
 paperurl: https://dl.acm.org/citation.cfm?id=3225128
+arxiv: https://arxiv.org/abs/1801.07630
 abstract: "Abstract."
 ---
 ```

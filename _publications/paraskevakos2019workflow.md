@@ -7,6 +7,7 @@ type: pub
 author: "Ioannis Paraskevakos, Matteo Turilli, Bento Collares Gonçalves, Heather J. Lynch and Shantenu Jha"
 venue: " 2019 15th International Conference on eScience (eScience)"
 paperurl: https://ieeexplore.ieee.org/document/9041805
+arxiv: https://arxiv.org/abs/1905.09766
 abstract: "Ecological sciences are using imagery from a variety of sources to 
 monitor and survey populations and ecosystems. Very High Resolution (VHR) 
 satellite imagery provide an effective dataset for large scale surveys. 
