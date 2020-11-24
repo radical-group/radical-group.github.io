@@ -7,6 +7,7 @@ type: pub
 author: "Mahzad Khoshlessan, Ioannis Paraskevakos, Geoffrey C. Fox, Shantenu Jha and Oliver Beckstein"
 venue: "Concurrency and Computation: Practise and Experience"
 paperurl: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5789
+arxiv: https://arxiv.org/abs/1907.00097
 abstract: "The performance of biomolecular molecular dynamics simulations has steadily 
 increased on modern high performance computing resources but acceleration of the 
 analysis of the output trajectories has lagged behind so that analyzing simulations 

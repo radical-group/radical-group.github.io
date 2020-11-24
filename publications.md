@@ -59,6 +59,7 @@ permalink: /publications/
 </p>
 <p class="pub-list-ref-links">
 {%- if pub.abstract -%}<a href="{{ site.baseurl }}{{ pub.url }}"><i class="fas fa-align-justify"></i> Abstract</a>{%- endif -%}
+{%- if pub.arxiv -%}<span><a href="{{ pub.arxiv }}"><i class="fas fa-file-alt"></i> Arxiv</a></span>{%- endif -%}
 {%- if pub.paperurl -%}<span><a href="{{ pub.paperurl }}"><i class="fas fa-file-alt"></i> Paper</a></span>{%- endif -%}
 </p>
 </div>

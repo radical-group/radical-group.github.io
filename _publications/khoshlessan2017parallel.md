@@ -1,7 +1,7 @@
 ---
 title: "Parallel Analysis in MDAnalysis using the Dask Parallel Computing Library"
 collection: publications
-permalink: /publications/mahzad2017parallel
+permalink: /publications/khoshlessan2017parallel
 type: pub
 date: 2017-12-25
 author: "Mahzad Khoshlessan, Ioannis Paraskevakos, Shantenu Jha and Oliver Beckstein"
