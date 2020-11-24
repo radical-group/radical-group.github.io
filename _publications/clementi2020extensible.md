@@ -1,7 +1,7 @@
 ---
 title: "Extensible and Scalable Adaptive Sampling on Supercomputers"
 collection: publications
-permalink: /publications/Clementi2020Extensible
+permalink: /publications/clementi2020extensible
 type: pub
 date: 2020-11-10
 author: "Eugen Hruska, Vivekanandan Balasubramanian, Hyungro Lee, Shantenu Jha, and Cecilia Clementi"
