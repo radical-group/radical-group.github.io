@@ -40,6 +40,10 @@ permalink: /people/
 <h3>Alumni</h3>
 
 <ul class="alumni-columns">
+  <li>Dr. Ioannis Paraskevakos</li>
+  <li>Kartik Rattan</li>
+  <li>George Koubbe</li>
+  <li>Esraa Abdelmotteleb</li>
   <li>Dr. Vivek Balasubramanian</li>
   <li>William Cheng</li>
   <li>Jumana Dakka</li>
