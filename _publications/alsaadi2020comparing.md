@@ -5,7 +5,7 @@ permalink: /publications/alsaadi2020comparing
 date: 2020-10-27
 type: pub
 author: "Aymen Al-Saadi, Ioannis Paraskevakos, Bento Collares Gonçalves, Heather J. Lynch, Shantenu Jha and Matteo Turilli"
-venue: "arxiv"
+venue: "Arxiv"
 paperurl: N/A
 arxiv: https://arxiv.org/pdf/2010.14756.pdf
 abstract: "Very High Resolution satellite and aerial imagery are used to 

@@ -5,7 +5,7 @@ permalink: /publications/alsaadi2020impeccable
 date: 2020-10-13
 type: pub
 author: "Aymen AlSaadi, Dario Alfe, Yadu Babuji, Agastya Bhati, Ben Blaiszik, Thomas Brettin, Kyle Chard, Ryan Chard, Peter Coveney, Anda Trifan, Alex Brace, Austin Clyde, Ian Foster, Tom Gibbs, Shantenu Jha, Kristopher Keipert, Thorsten Kurth, Dieter Kranzlmüller, Hyungro Lee, Zhuozhao Li, Heng Ma, Andre Merzky, Gerald Mathias, Alexander Partin, Junqi Yin, Arvind Ramanathan, Ashka Shah, Abraham Stern, Rick Stevens, Li Tan, Mikhail Titov, Aristeidis Tsaris, Matteo Turilli, Huub Van Dam, Shunzhou Wan, David Wifling"
-venue: "arxiv"
+venue: "Arxiv"
 paperurl: N/A
 arxiv: https://arxiv.org/pdf/2010.06574.pdf
 abstract: "The drug discovery process currently employed in the pharmaceutical industry
