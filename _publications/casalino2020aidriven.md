@@ -1,4 +1,3 @@
-
 ---
 title: "AI-Driven Multiscale Simulations Illuminate Mechanisms of SARS-CoV-2 Spike Dynamics"
 collection: publications
