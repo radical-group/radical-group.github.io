@@ -1,7 +1,7 @@
 ---
 name: "Matteo Turilli"
 collection: people
-avatar: matteo.jpg
+avatar: matteo.png
 joined: 2012
 position: pi
 title: "Assistant Research Professor"
