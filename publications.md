@@ -16,7 +16,9 @@ permalink: /publications/
 
 {%- if item == 'pub' -%}
 {%- for year in year_array -%}
-{%- if year == '2020' -%}
+{%- if year == '2021' -%}
+<h2 class="pub-year">2021</h2>
+{%- elsif year == '2020' -%}
 <h2 class="pub-year">2020</h2>
 {%- elsif year == '2019' -%}
 <h2 class="pub-year">2019</h2>
