@@ -6,7 +6,7 @@ date: 2020-10-13
 type: pub
 author: "Aymen AlSaadi, Dario Alfe, Yadu Babuji, Agastya Bhati, Ben Blaiszik, Thomas Brettin, Kyle Chard, Ryan Chard, Peter Coveney, Anda Trifan, Alex Brace, Austin Clyde, Ian Foster, Tom Gibbs, Shantenu Jha, Kristopher Keipert, Thorsten Kurth, Dieter Kranzlmüller, Hyungro Lee, Zhuozhao Li, Heng Ma, Andre Merzky, Gerald Mathias, Alexander Partin, Junqi Yin, Arvind Ramanathan, Ashka Shah, Abraham Stern, Rick Stevens, Li Tan, Mikhail Titov, Aristeidis Tsaris, Matteo Turilli, Huub Van Dam, Shunzhou Wan, David Wifling"
 venue: "Arxiv"
-arxiv: https://arxiv.org/pdf/2010.06574.pdf
+arxiv: https://arxiv.org/abs/2010.06574
 abstract: "The drug discovery process currently employed in the pharmaceutical industry
 typically requires about 10 years and $2-3 billion to deliver one new drug. This is both
 too expensive and too slow, especially in emergencies like the COVID-19 pandemic. In silicomethodologies
