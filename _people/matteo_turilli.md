@@ -1,7 +1,7 @@
 ---
 name: "Matteo Turilli"
 collection: people
-avatar: matteo.jpg
+avatar: matteo.png
 joined: 2012
 position: pi
 title: "Assistant Research Professor"
@@ -10,11 +10,14 @@ contacts:
   email: "matteo.turilli@rutgers.edu"
   office: "CoRE 713"
 publications:
+  - id: merzky2021design
+    cofirst: true
+  - id: turilli2019characterizing
+  - id: turilli2018building.md
   - id: dakka2018concurrent
     cofirst: true
   - id: balasubramanian2018harnessing
     cofirst: true
-  - id: turilli2018building
   - id: turilli2017comprehensive
   - id: turilli2017evaluating
 projects:
@@ -26,14 +29,7 @@ projects:
     role: "Research Scientist"
   - id: iceberg
     role: "Research Scientist"
-  - id: htbac
-    role: "Research Scientist"
-  - id: bigpanda
-    role: "Research Scientist"
-  - id: sea_ice_level
-    role: "Research Scientist"
 students:
-  - "Ioannis Paraskevakos"
   - "Aydin Saribudak"
   - "Aymen Alsaadi"
 past_students:
