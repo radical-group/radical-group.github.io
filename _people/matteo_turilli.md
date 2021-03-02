@@ -29,12 +29,6 @@ projects:
     role: "Research Scientist"
   - id: iceberg
     role: "Research Scientist"
-  - id: htbac
-    role: "Research Scientist"
-  - id: bigpanda
-    role: "Research Scientist"
-  - id: sea_ice_level
-    role: "Research Scientist"
 students:
   - "Aydin Saribudak"
   - "Aymen Alsaadi"
