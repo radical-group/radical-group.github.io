@@ -15,8 +15,8 @@ contacts:
   scholar: "https://scholar.google.com/citations?hl=en&user=vUhIJQMAAAAJ&view_op=list_works&sortby=pubdate"
 ---
 
-Shantenu is an Associate Professor of Computer Engineering at Rutgers
-University and the Chair of the Department (Center) for Data Driven Discovery
+Shantenu is a Professor of Computer Engineering at Rutgers University 
+and the Chair of the Department (Center) for Data Driven Discovery
 at Brookhaven National Laboratory. He was appointed a Rutgers Chancellor’s
 Scholar in 2015. He has held visiting positions at the University of Edinburgh
 and UCL.
