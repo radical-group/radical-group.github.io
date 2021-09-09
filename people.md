@@ -40,6 +40,7 @@ permalink: /people/
 <h3>Alumni</h3>
 
 <ul class="alumni-columns">
+  <li>Dr. Mikhail Titov</li>
   <li>Dr. Ioannis Paraskevakos</li>
   <li>Kartik Rattan</li>
   <li>George Koubbe</li>
