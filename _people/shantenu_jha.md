@@ -16,7 +16,7 @@ contacts:
 ---
 
 Shantenu is a Professor of Computer Engineering at Rutgers University 
-and the Chair of the Department (Center) for Data Driven Discovery
+and the Chair of the Department (Center) for <a href="https://www.bnl.gov/compsci/c3d/"> Data Driven Discovery </a>
 at Brookhaven National Laboratory.
 
 Shantenu's research interests are at the intersection of high-performance
