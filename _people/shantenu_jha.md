@@ -30,10 +30,7 @@ multiple domains -- including but not limited to Molecular Sciences, Earth
 Sciences and High-Energy Physics.
 
 Shantenu is a recipient of the NSF CAREER Award (2013), the Special Gordon Bell Award (2020) and 
-several other prizes at SC'xy and ISC’xy. He lead the team that was awarded the IEEE SCALE 2018.  
-Shantenu was the recipient of the inaugural Chancellor's Excellence in
-Research (2016) for his cyberinfrastructure contributions to computational
-science. He was also awarded a Rutgers Board of Trustees Fellowship for
+several other prizes at SC'xy and ISC’xy. He lead the team that was awarded the IEEE SCALE 2018.  Shantenu was the recipient of the inaugural Chancellor's Excellence in Research (2016) for his cyberinfrastructure contributions to computational science. He was also awarded a Rutgers Board of Trustees Fellowship for
 Scholarly Excellence (2014) and appointed a Rutgers Chancellor’s Scholar in 2015.
 
 Jha seeks fearless and revolutionary young minds to join the RADICAL
