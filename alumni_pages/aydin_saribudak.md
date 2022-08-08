@@ -1,7 +1,6 @@
 ---
 name: "Aydin Saribudak"
 collection: people
-permalink: /people/aydins
 position: phd
 title: "PhD Student"
 joined: 2019
