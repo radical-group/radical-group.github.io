@@ -3,7 +3,6 @@ name: "Ming Tai Ha"
 collection: people
 position: ms
 joined: 2015
-permalink: /people/ming-tai-ha
 ---
 
 ### Bio

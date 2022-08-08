@@ -5,7 +5,6 @@ position: researcher
 avatar: ioannis_par.jpg
 joined: 2020
 title: "Research Software Engineer"
-permalink: /people/iparask
 contacts:
   email: "g.paraskev@rutgers.edu"
   office: "CoRE 707"

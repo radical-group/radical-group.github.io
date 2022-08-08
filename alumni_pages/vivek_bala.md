@@ -5,7 +5,6 @@ avatar: vivek.jpg
 joined: 2012
 position: phd
 title: "PhD Candidate"
-permalink: /people/vivekb
 contacts:
   github: "https://github.com/vivek-bala"
   linkedin: "https://www.linkedin.com/in/vivekanandan-balasubramanian-284a1663/"

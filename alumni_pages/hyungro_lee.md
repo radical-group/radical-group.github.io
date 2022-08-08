@@ -5,7 +5,6 @@ avatar: hyungro.jpg
 joined: 2018
 position: researcher
 title: "Research Associate"
-permalink: /people/hyungro_lee
 contacts:
   email: hyungro.lee@rutgers.edu
   office: CoRE 707

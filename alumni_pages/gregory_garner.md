@@ -5,7 +5,6 @@ avatar: ggarner.jpg
 joined: 2018
 position: researcher
 title: "Postdoctoral Associate"
-permalink: /people/gregory_garner
 contacts:
   email: "gregory.garner@rutgers.edu"
   personal: "https://sites.google.com/site/gggarner121/"

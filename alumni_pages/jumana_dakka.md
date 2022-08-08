@@ -5,7 +5,6 @@ joined: 2016
 avatar: jumana.jpg
 position: ms
 title: "Master Student"
-permalink: /people/jdakka
 contacts:
   email: "jumana.dakka@rutgers.edu"
   office: "CoRE 707"

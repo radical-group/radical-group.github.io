@@ -4,7 +4,6 @@ collection: people
 position: ms
 avatar: george.jpg
 joined: 2016
-permalink: /people/georgeha
 title: "Master Student"
 contacts:
   linkedin: "https://www.linkedin.com/in/gchantzialexiou/"

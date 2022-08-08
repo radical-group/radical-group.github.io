@@ -1,7 +1,6 @@
 ---
 name: "George Koubbe"
 collection: people
-permalink: /people/george-koubbe
 position: ms
 title: "Master Student"
 joined: 2019

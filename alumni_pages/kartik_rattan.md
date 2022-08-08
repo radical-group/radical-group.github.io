@@ -1,7 +1,6 @@
 ---
 name: "Kartik Rattan"
 collection: people
-permalink: /people/kartik_rattan
 position: ms
 title: "Master Student"
 joined: 2019

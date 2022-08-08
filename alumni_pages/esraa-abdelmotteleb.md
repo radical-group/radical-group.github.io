@@ -4,7 +4,6 @@ collection: people
 avatar: esraa.jpg
 position: ms
 title: "Master Student"
-permalink: /people/esraa-abdelmotteleb
 joined: 2020
 contacts:
   email: "eee29@scarletmail.rutgers.edu"

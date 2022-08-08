@@ -5,7 +5,6 @@ avatar: mikhail_titov.jpg
 joined: 2020
 position: researcher
 title: "Research Associate"
-permalink: /people/mikhail_titov
 contacts:
   email: mikhail.titov@rutgers.edu
   office: CoRE 707
