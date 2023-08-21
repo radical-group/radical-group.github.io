@@ -30,7 +30,7 @@ permalink: /people/
           {{ profile.title }}
         </a>
       </p>
-    </div>    
+    </div>
     {% endif %}
   {%- endfor -%}
 {% endfor %}
@@ -40,6 +40,7 @@ permalink: /people/
 <h3>Alumni</h3>
 
 <ul class="alumni-columns">
+  <li>Seyma Guleryuz</li>
   <li>Dr. Hyungro Lee</li>
   <li>Aydin Saribudak</li>
   <li>Dr. Mikhail Titov</li>
