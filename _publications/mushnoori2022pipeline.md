@@ -1,0 +1,11 @@
+title: "Pipeline for Automating Compliance-based Elimination and Extension (PACE2): A Systematic Framework for High-throughput Biomolecular Material Simulation Workflows"
+collection: publications
+permalink: /publications/mushnoori2022pipeline
+date: 2022-08-21
+type: pub
+author: "Srinivas C. Mushnoori, Ethan Zang, Akash Banerjee, Mason Hooten, Andre Merzky, Matteo Turilli, Shantenu Jha, Meenakshi Dutt"
+venue: "arXivorg"
+arxiv: https://arxiv.org/abs/2208.00056
+paperurl:
+abstract: "The formation of biomolecular materials via dynamical interfacial processes such as self-assembly and fusion, for diverse compositions and external conditions, can be efficiently probed using ensemble Molecular Dynamics. However, this approach requires a large number of simulations when investigating a large composition phase space. In addition, there is difficulty in predicting whether each simulation is yielding biomolecular materials with the desired properties or outcomes and how long each simulation will run for. These difficulties can be overcome by rules-based management systems which include intermittent inspection, variable sampling, premature termination and extension of the individual Molecular Dynamics simulations. The automation of such a management system can significantly reduce the overhead of managing large ensembles of Molecular Dynamics simulations. To this end, a high-throughput workflows-based computational framework, Pipeline for Automating Compliance-based Elimination and Extension (PACE2), for biomolecular materials simulations is proposed. The PACE2 framework encompasses Simulation-Analysis Pipelines. Each Pipeline includes temporally separated simulation and analysis tasks. When a Molecular Dynamics simulation completes, an analysis task is triggered which evaluates the Molecular Dynamics trajectory for compliance. Compliant Molecular Dynamics simulations are extended to the next Molecular Dynamics phase with a suitable sample rate to allow additional, detailed analysis. Non-compliant Molecular Dynamics simulations are eliminated, and their computational resources are either reallocated or released. The framework is designed to run on local desktop computers and high performance computing resources. In the future, the framework will be extended to address generalized workflows and investigate other classes of materials."
+---
