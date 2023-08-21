@@ -31,15 +31,16 @@ First, install [homebrew](https://brew.sh/) if not already installed, then do th
 xcode-select --install
 brew install ruby
 echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
-gem install --user-install bundler jekyll rouge jekyll-redirect-from html-proofer
-echo 'export PATH="/Users/$USER/.gem/ruby/2.7.0/bin:$PATH"' >> ~/.bash_profile
+. ~/.bash_profile
+gem install --user-install bundler jekyll rouge jekyll-redirect-from html-proofer jekyll-sitemap
+echo 'export PATH="/Users/$USER/.local/share/gem/ruby/3.2.0/bin:$PATH"' >> ~/.bash_profile
 . ~/.bash_profile
 ```
-Note: this assumes that ruby 2.7.0 was installed. Change the last echo command if you have a different version.
+Note: this assumes that ruby 3.2.0 was installed. Change the last echo command if you have a different version.
 
 Check that the installation was successful:
 - `which ruby` should return `/usr/local/opt/ruby/bin/ruby` if it returns `/usr/bin/ruby` you are using the one shipped with macos and jekyll will likely not work.
-- `gem env` should show `/Users/$USER/.gem/ruby/2.7.0/bin:$PATH` under SHELL PATH.
+- `gem env` should show `/Users/$USER/.local/share/gem/ruby/3.2.0/bin:$PATH` under SHELL PATH.
 
 Issue:
 ```
