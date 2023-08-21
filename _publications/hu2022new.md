@@ -1,3 +1,4 @@
+---
 title: "A new hourly dataset for photovoltaic energy production for the continental USA"
 collection: publications
 permalink: /publications/hu2022new

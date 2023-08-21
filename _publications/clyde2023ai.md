@@ -1,3 +1,4 @@
+---
 title: "AI-accelerated protein-ligand docking for SARS-CoV-2 is 100-fold faster with no sig-nificant change in detection"
 collection: publications
 permalink: /publications/clyde2023ai

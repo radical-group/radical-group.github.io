@@ -1,3 +1,4 @@
+---
 title: "Adaptive Ensemble Refinement of Protein Structures in High Resolution Electron Microscopy Density Maps with Radical Augmented Molecular Dynamics Flexible Fitting"
 collection: publications
 permalink: /publications/sarkar2021adaptive

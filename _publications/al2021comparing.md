@@ -1,3 +1,4 @@
+---
 title: "Comparing workflow application designs for high resolution satellite image analysis"
 collection: publications
 permalink: /publications/al2021comparing

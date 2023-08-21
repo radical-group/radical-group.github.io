@@ -1,3 +1,4 @@
+---
 title: "#COVIDisAirborne: AI-enabled multiscale computational microscopy of delta SARS-CoV-2 in a respiratory aerosol"
 collection: publications
 permalink: /publications/dommer2023covidisairborne

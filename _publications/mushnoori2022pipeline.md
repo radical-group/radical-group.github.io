@@ -1,3 +1,4 @@
+---
 title: "Pipeline for Automating Compliance-based Elimination and Extension (PACE2): A Systematic Framework for High-throughput Biomolecular Material Simulation Workflows"
 collection: publications
 permalink: /publications/mushnoori2022pipeline

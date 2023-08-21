@@ -1,3 +1,4 @@
+---
 title: "Pandemic drugs at pandemic speed: infrastructure for accelerating COVID-19 drug discovery with hybrid machine learning- and physics-based simulations on high-performance computers"
 collection: publications
 permalink: /publications/bhati2021pandemic

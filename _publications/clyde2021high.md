@@ -1,3 +1,4 @@
+---
 title: "High-Throughput Virtual Screening and Validation of a SARS-CoV-2 Main Protease Noncovalent Inhibitor"
 collection: publications
 permalink: /publications/clyde2021high
