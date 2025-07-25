@@ -5,7 +5,7 @@ position: post-doc
 avatar: mason_hooten.png
 joined: 2025
 permalink: /people/mason_hooten
-title: "PhD Student"
+title: "Postdoctoral Researcher "
 contacts:
   email: "mh1314@scarletmail.rutgers.edu"
   office: "CoRE 707"
